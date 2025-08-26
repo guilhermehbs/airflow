@@ -45,7 +45,7 @@ docker compose up airflow-init   # Inicializa metadado + usuário admin
 docker compose up -d             # Sobe o ambiente em background
 ```
 
-> Acesse em: http://localhost:8080
+> Acesse em: http://localhost:8080 <br>
 > Login padrão: airflow / airflow
 
 ## Estrutura do projeto
